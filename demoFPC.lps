@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Debug"/>
+    <Units Count="27">
+      <Unit0>
+        <Filename Value="demoFPC.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="30" Y="10"/>
+        <UsageCount Value="396"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainapiserverdev.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FmainAPIServerDev"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="mainAPIServerDev"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="10"/>
+        <UsageCount Value="396"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="servidorapi.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="servidorAPI"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <UsageCount Value="396"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\fpcupdeluxe\lazarustrunk\projects\cm\mORMot\SynDprUses.inc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="40" Y="9"/>
+        <UsageCount Value="396"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="modelapi.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="modelAPI"/>
+        <EditorIndex Value="8"/>
+        <CursorPos Y="3"/>
+        <UsageCount Value="396"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="repoclientes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="repoClientes"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="6"/>
+        <CursorPos X="43" Y="23"/>
+        <UsageCount Value="396"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="clientesinterfaces.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="clientesInterfaces"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="3" Y="16"/>
+        <UsageCount Value="396"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="apiclientconect.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="apiClientConect"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="32" Y="35"/>
+        <UsageCount Value="367"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="apisharedtypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="2"/>
+        <CursorPos Y="3"/>
+        <UsageCount Value="366"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="apiclient.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="19" Y="11"/>
+        <UsageCount Value="364"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="apiclienttypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="apiClientTypes"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="10"/>
+        <CursorPos Y="3"/>
+        <UsageCount Value="364"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="servicios\lx.gestopago.consts.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="386"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="servicios\lx.gestopago.pas"/>
+        <UnitName Value="lx.GestoPago"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="95"/>
+        <CursorPos X="55" Y="99"/>
+        <UsageCount Value="386"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="servicios\lx.gestopago.tipos.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="386"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="servicios\lx.servicios.tiposcomunes.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="386"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="servidorrestapi.pas"/>
+        <UnitName Value="servidorRestAPI"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="83" Y="10"/>
+        <UsageCount Value="386"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\fpcupdeluxe\lazarustrunk\projects\cm\mORMot\SQLite3\mORMotSQLite3.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="980"/>
+        <CursorPos Y="997"/>
+        <UsageCount Value="18"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\fpcupdeluxe\lazarustrunk\projects\cm\mORMot\SQLite3\mORMot.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="53316"/>
+        <CursorPos X="62" Y="53338"/>
+        <UsageCount Value="45"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\fpcupdeluxe\lazarustrunk\projects\cm\mORMot\SynCrtSock.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3747"/>
+        <CursorPos X="72" Y="3764"/>
+        <UsageCount Value="1"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\fpcupdeluxe\lazarustrunk\projects\cm\mORMot\SQLite3\mORMotHttpClient.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="918"/>
+        <CursorPos X="43" Y="923"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\fpcupdeluxe\lazarustrunk\projects\cm\mORMot\SynCommons.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="43219"/>
+        <CursorPos X="18" Y="43223"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="..\mORMot\SynCrtSock.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8275"/>
+        <CursorPos Y="8288"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="..\mORMot\SQLite3\mORMot.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="42635"/>
+        <CursorPos X="98" Y="42646"/>
+        <UsageCount Value="60"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="..\mORMot\SynSelfTests.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="986"/>
+        <CursorPos X="25" Y="999"/>
+        <UsageCount Value="60"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="..\mORMot\SQLite3\mORMotHttpServer.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="360"/>
+        <CursorPos X="17" Y="371"/>
+        <UsageCount Value="60"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="..\mORMot\SQLite3\mORMotSQLite3.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="540"/>
+        <CursorPos X="15" Y="551"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="..\mORMot\SynCommons.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="64179"/>
+        <CursorPos Y="64200"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit26>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="59" Column="3" TopLine="43"/>
+      </Position1>
+      <Position2>
+        <Filename Value="repoclientes.pas"/>
+        <Caret Line="28" Column="32" TopLine="20"/>
+      </Position2>
+      <Position3>
+        <Filename Value="clientesinterfaces.pas"/>
+        <Caret Line="32" Column="19" TopLine="19"/>
+      </Position3>
+      <Position4>
+        <Filename Value="apisharedtypes.pas"/>
+        <Caret Line="25"/>
+      </Position4>
+      <Position5>
+        <Filename Value="apiclienttypes.pas"/>
+        <Caret Line="19" Column="5" TopLine="13"/>
+      </Position5>
+      <Position6>
+        <Filename Value="mainapiserverdev.pas"/>
+        <Caret Line="3" TopLine="64"/>
+      </Position6>
+      <Position7>
+        <Filename Value="mainapiserverdev.pas"/>
+        <Caret Line="106" Column="17" TopLine="91"/>
+      </Position7>
+      <Position8>
+        <Filename Value="apiclient.pas"/>
+        <Caret Line="26" Column="25" TopLine="22"/>
+      </Position8>
+      <Position9>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="78" Column="7" TopLine="69"/>
+      </Position9>
+      <Position10>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="62" Column="16" TopLine="46"/>
+      </Position10>
+      <Position11>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="62" Column="20" TopLine="46"/>
+      </Position11>
+      <Position12>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="63" Column="19" TopLine="46"/>
+      </Position12>
+      <Position13>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="65" Column="19" TopLine="60"/>
+      </Position13>
+      <Position14>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="64" Column="22" TopLine="51"/>
+      </Position14>
+      <Position15>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="9" Column="11"/>
+      </Position15>
+      <Position16>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="10" Column="3"/>
+      </Position16>
+      <Position17>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="65" TopLine="52"/>
+      </Position17>
+      <Position18>
+        <Filename Value="repoclientes.pas"/>
+        <Caret Line="33" TopLine="23"/>
+      </Position18>
+      <Position19>
+        <Filename Value="repoclientes.pas"/>
+        <Caret Line="34" TopLine="23"/>
+      </Position19>
+      <Position20>
+        <Filename Value="repoclientes.pas"/>
+        <Caret Line="35" TopLine="23"/>
+      </Position20>
+      <Position21>
+        <Filename Value="repoclientes.pas"/>
+        <Caret Line="36" TopLine="23"/>
+      </Position21>
+      <Position22>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="66" TopLine="52"/>
+      </Position22>
+      <Position23>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="65" TopLine="52"/>
+      </Position23>
+      <Position24>
+        <Filename Value="repoclientes.pas"/>
+        <Caret Line="33" TopLine="23"/>
+      </Position24>
+      <Position25>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="65" Column="44" TopLine="52"/>
+      </Position25>
+      <Position26>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="63" Column="7" TopLine="50"/>
+      </Position26>
+      <Position27>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="50" Column="18" TopLine="44"/>
+      </Position27>
+      <Position28>
+        <Filename Value="repoclientes.pas"/>
+        <Caret Line="23" Column="43" TopLine="6"/>
+      </Position28>
+      <Position29>
+        <Filename Value="apiclient.pas"/>
+        <Caret Line="40" TopLine="25"/>
+      </Position29>
+      <Position30>
+        <Filename Value="servidorapi.pas"/>
+        <Caret Line="50" Column="18" TopLine="30"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

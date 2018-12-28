@@ -1,0 +1,82 @@
+object FmainAPIServerDev: TFmainAPIServerDev
+  Left = 330
+  Height = 97
+  Top = 125
+  Width = 432
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsDialog
+  Caption = 'Servidor desarrollo API accosoft'
+  ClientHeight = 97
+  ClientWidth = 432
+  OnClose = FormClose
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  Position = poScreenCenter
+  LCLVersion = '2.1.0.0'
+  object Panel1: TPanel
+    Left = 0
+    Height = 97
+    Top = 0
+    Width = 432
+    Align = alClient
+    Caption = ' '
+    ClientHeight = 97
+    ClientWidth = 432
+    TabOrder = 0
+    object Bevel1: TBevel
+      Left = 1
+      Height = 95
+      Top = 1
+      Width = 170
+      Align = alLeft
+      Shape = bsRightLine
+    end
+    object Label1: TLabel
+      Left = 19
+      Height = 15
+      Top = 5
+      Width = 43
+      Caption = 'SERVER'
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+    end
+    object startStopBtn: TButton
+      Left = 14
+      Height = 32
+      Top = 51
+      Width = 90
+      Caption = 'Start ...'
+      OnClick = startStopBtnClick
+      TabOrder = 0
+    end
+    object Label2: TLabel
+      Left = 197
+      Height = 15
+      Top = 5
+      Width = 39
+      Caption = 'CLIENT'
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+    end
+    object newCustomerBtn: TButton
+      Left = 197
+      Height = 32
+      Top = 51
+      Width = 147
+      Caption = 'Register customer'
+      Enabled = False
+      OnClick = newCustomerBtnClick
+      TabOrder = 1
+    end
+  end
+  object enableAuthChk: TCheckBox
+    Left = 16
+    Height = 19
+    Top = 26
+    Width = 137
+    Caption = 'Enable Authentication'
+    TabOrder = 1
+  end
+end
